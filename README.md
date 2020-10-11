@@ -4,4 +4,4 @@ Some description!
 
 ## Subheader
 
-Watch tutorial on Youtube.
+I'm learning git now I guess...
